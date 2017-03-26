@@ -1,0 +1,10 @@
+8 5 c
+
+a r x w a
+b ! c c z
+q a c c a
+r a c c a
+s a a a c
+t c c c a 
+u c c c ? 
+v c c c a 
